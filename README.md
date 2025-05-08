@@ -7,7 +7,7 @@ A deep learning-based **Voice Conversion Model** built using `so-vits-svc-fork`.
 ✅ Train your own voice conversion model with custom datasets 
 ✅ Perform inference to convert input audio into your trained voice  
 ✅ Easy preprocessing pipeline for preparing datasets  
-✅ Supports training on Google Colab for GPU acceleration  
+✅ Supports training on Google Colab for GPU acceleration
 ✅ Code and model checkpoint backup on GitHub
 
 ## 🏗️ Project Structure
